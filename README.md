@@ -1,9 +1,8 @@
 ## Hi there 👋
 
-It's nice to meet you, here's some more info about me!
+Welcome to my GitHub! Here's a little more info about me!
 
-- 👩‍🎓 I’m currently pursuing my B.B.A in Business Analytics & Information Systems at the University of Iowa.
-- 🌱 I’m currently learning Python, SQL, and Oracle APEX in my courses!
+- 👩‍🎓 I'm a fourth-year student at the University of Iowa pursuing a BBA in Business Analytics & Information Systems with an Event Management Certificate.
+- 💻 I've worked with Python, SQL, Power BI, HTML/CSS, and Oracle APEX to build data-driven projects that solve real problems.
 - 👀 I'm currently searching for full-time roles in the Iowa City or Des Moines area for January 2026!
-- 📫 How to reach me: ella-zaputil@uiowa.edu
-- 😄 Pronouns: (she/her/hers)
+- 📫 Reach me at: ella-zaputil@uiowa.edu
